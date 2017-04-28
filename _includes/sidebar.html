@@ -25,10 +25,17 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+      <a class="sidebar-nav-item" href="{{ site.author.lasa_profile }}"><i class="fa fa-external-link fa-fw"></i>Publications</a>
+<br>
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      <a class="sidebar-nav-item" href="{{ site.github.main }}"><i class="fa fa-github  fa-fw" aria-hidden="true"></i>GitHub</a>
+      <a class="sidebar-nav-item" href="{{ site.author.youtube }}"><i class="fa fa-youtube fa-fw" aria-hidden="true"></i>Videos</a>
+      <a class="sidebar-nav-item" href="{{ site.author.linkedin }}"><i class="fa fa-linkedin fa-fw" aria-hidden="true"></i>Linkedin</a>
+
+
+      <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
+      <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
+      <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
