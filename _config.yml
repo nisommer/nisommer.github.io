@@ -10,12 +10,12 @@ permalink:        pretty
 title:            'Nicolas Sommer'
 tagline:          'Roboticist'
 description:      'Robotics and Machine Learning'
-url:              ()
-baseurl:          /
+url:              http://www.nicolassommer.com
+baseurl:          "/"
 
 author:
   name:           'Nicolas Sommer'
-  # url:            https://twitter.com/mdo
+  url:            http://nicolassommer.com/
   linkedin:       https://www.linkedin.com/in/nicolas-sommer
   youtube:        https://www.youtube.com/channel/UCXoCrLW5ffLEhn8AYPZMm_A
   lasa_profile:   http://lasa.epfl.ch/people/member.php?SCIPER=202511
