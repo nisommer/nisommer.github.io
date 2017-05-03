@@ -13,22 +13,23 @@ You can also find me on [google scholar](https://scholar.google.ch/citations?use
 Nicolas Sommer, Aude Billard.
 [[PDF]({{ site.url}}/pubs/ras_2016.pdf)]
 
+
 ### Conferences
 
 1. **Bimanual compliant tactile exploration for grasping unknown objects**
 *ICRA*, 2014.
 Nicolas Sommer, Miao Li, Aude Billard.
-[[PDF](/pubs/icra_2014.pdf)]
+[[PDF]({{ site.url}}/pubs/icra_2014.pdf)]
 
 1. **Stretchable capacitive tactile skin on humanoid robot fingers - first experiments and results**
 *Humanoids*, 2014.
 Aaron Gerratt, Nicolas Sommer, Stephanie Lacour, Aude Billard.
-[[PDF](/pubs/humanoids_2014.pdf)]
+[[PDF]({{ site.url}}/pubs/humanoids_2014.pdf)]
 
 1. **Face Classification Using Touch with a Humanoid Robot Hand**
 *Humanoids*, 2012.
 Nicolas Sommer, Aude Billard.
-[[PDF](/pubs/humanoids_2012.pdf)]
+[[PDF]({{ site.url}}/pubs/humanoids_2012.pdf)]
 
 
 
@@ -36,7 +37,7 @@ Nicolas Sommer, Aude Billard.
 
 **Multi-contact tactile exploration and interaction with unknown objects.**
 Nicolas Sommer, May 19th, 2017
-[[PDF](/pubs/main_electronic_sommer.pdf)]
+[[PDF]({{ site.url}}/pubs/main_electronic_sommer.pdf)]
 
 **Abstract:**
 
