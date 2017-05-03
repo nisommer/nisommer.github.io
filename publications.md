@@ -11,7 +11,7 @@ You can also find me on [google scholar](https://scholar.google.ch/citations?use
 1. **Multi-contact haptic exploration and grasping with tactile sensors**
 *Robotics and Autonomous Systems*, 2016.
 Nicolas Sommer, Aude Billard.
-[[PDF](/pubs/ras_2016.pdf)]
+[[PDF]({{ site.url}}/pubs/ras_2016.pdf)]
 
 ### Conferences
 
