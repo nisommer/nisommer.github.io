@@ -1,8 +1,16 @@
 ---
 layout: page
 title: About
+<!-- published: false -->
 ---
-`TODO`
+
+<!-- todo: change image size: do it with html .. -->
+
+<!-- <img src="http://lasa.epfl.ch/people/images/portraits/202511.jpg" alt="Nicolas Sommer" style="width:304px;"> -->
+<img src="/img/nicolas.JPG" alt="Nicolas Sommer" style="width:204px;">
+`Page in progress`
+<!-- <img src="/img/nicolas.JPG" alt="Nicolas Sommer" style=""> -->
+
 <!-- <p class="message">
   TODO
 </p> -->

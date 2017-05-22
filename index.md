@@ -14,7 +14,7 @@ My work has applications in prosthetics and learning from demonstration using ex
 <!-- Past collaborations ... -->
 
 You can find my publications <a href="publications/">here</a> and more information about me on my 
-<a href="about/">about</a> page
+<a href="about/">about</a> page.
 
 <!-- You can learn more about my trajectory on my <a href="about/">about</a> page, -->
 <!-- or see cool robots I've worked with on my -->
