@@ -16,6 +16,11 @@ Nicolas Sommer, Aude Billard.
 
 ### Conferences
 
+1. **Learning Externally Modulated Dynamical Systems**
+*IROS*, 2017.
+Nicolas Sommer, Klas Kronander, Aude Billard.
+[[PDF]({{ site.url}}/pubs/iros_2017.pdf)]
+
 1. **Bimanual compliant tactile exploration for grasping unknown objects**
 *ICRA*, 2014.
 Nicolas Sommer, Miao Li, Aude Billard.
