@@ -9,6 +9,8 @@ title: About
 <!-- <img src="http://lasa.epfl.ch/people/images/portraits/202511.jpg" alt="Nicolas Sommer" style="width:304px;"> -->
 <img src="/img/nicolas.JPG" alt="Nicolas Sommer" style="width:204px;">
 `Page in progress`
+
+You can find my resume [here]({{ site.url}}//docs/CV.pdf).
 <!-- <img src="/img/nicolas.JPG" alt="Nicolas Sommer" style=""> -->
 
 <!-- <p class="message">
