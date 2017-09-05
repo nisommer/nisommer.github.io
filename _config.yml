@@ -11,7 +11,7 @@ title:            'Nicolas Sommer'
 tagline:          'Roboticist'
 description:      'Robotics and Machine Learning'
 url:              http://www.nicolassommer.com
-baseurl:          "/"
+baseurl:         
 
 author:
   name:           'Nicolas Sommer'
@@ -21,10 +21,10 @@ author:
   lasa_profile:   http://lasa.epfl.ch/people/member.php?SCIPER=202511
 
 
-paginate:         5
+# paginate:         5
 
 # Custom vars
-version:          2.1.0
+# version:          2.1.0
 
 github:
   repo:           https://github.com/nisommer/nisommer.github.io
