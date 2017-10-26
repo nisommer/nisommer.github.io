@@ -10,7 +10,7 @@ title: About
 <img src="/img/nicolas.JPG" alt="Nicolas Sommer" style="width:204px;">
 
 
-You can find my resume [here]({{ site.url}}/docs/CV.pdf).
+You can find my resume [here]({{ site.url}}/docs/resume.pdf) and a more exhaustive CV [here]({{ site.url}}/docs/cv.pdf).
 <!-- <img src="/img/nicolas.JPG" alt="Nicolas Sommer" style=""> -->
 
 `Page in progress`
