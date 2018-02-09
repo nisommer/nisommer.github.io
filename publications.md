@@ -8,7 +8,7 @@ You can also find me on [google scholar](https://scholar.google.ch/citations?use
 
 ### Journals
 
-1. **Multi-contact haptic exploration and grasping with tactile sensors**
+1. **Multi-contact haptic exploration and grasping with tactile sensors**.  
 *Robotics and Autonomous Systems*, 2016.
 Nicolas Sommer, Aude Billard.
 [[PDF]({{ site.url}}/pubs/ras_2016.pdf)]
@@ -16,31 +16,35 @@ Nicolas Sommer, Aude Billard.
 
 ### Conferences
 
-1. **Learning Externally Modulated Dynamical Systems**
+1. **Learning Externally Modulated Dynamical Systems**.  
 *IROS*, 2017.
 Nicolas Sommer, Klas Kronander, Aude Billard.
 [[PDF]({{ site.url}}/pubs/iros_2017.pdf)]
 
-1. **Bimanual compliant tactile exploration for grasping unknown objects**
+1. **Bimanual compliant tactile exploration for grasping unknown objects**.  
 *ICRA*, 2014.
 Nicolas Sommer, Miao Li, Aude Billard.
 [[PDF]({{ site.url}}/pubs/icra_2014.pdf)]
 
-1. **Stretchable capacitive tactile skin on humanoid robot fingers - first experiments and results**
+1. **Stretchable capacitive tactile skin on humanoid robot fingers - first experiments and results**.  
 *Humanoids*, 2014.
 Aaron Gerratt, Nicolas Sommer, Stephanie Lacour, Aude Billard.
 [[PDF]({{ site.url}}/pubs/humanoids_2014.pdf)]
 
-1. **Face Classification Using Touch with a Humanoid Robot Hand**
+1. **Face Classification Using Touch with a Humanoid Robot Hand**.  
 *Humanoids*, 2012.
 Nicolas Sommer, Aude Billard.
 [[PDF]({{ site.url}}/pubs/humanoids_2012.pdf)]
 
-
+### Abstracts
+1. **Grasp smarter, not harder: Proportional control of an electromyographic prosthesis with a touch of automation**.  
+*Neuroscience*, 2017.
+Katie Zhuang, Nicolas Sommer, Emmanuele Formento, Eduardo D'Anna, Aude Billard, Silvestro Micera.
+[[PDF]({{ site.url}}/pubs/Neuroscience2017.pdf)]
 
 ### Thesis
 
-**Multi-contact tactile exploration and interaction with unknown objects.**
+**Multi-contact tactile exploration and interaction with unknown objects.**  
 Nicolas Sommer, May 19th, 2017
 [[PDF]({{ site.url}}/pubs/main_electronic_sommer.pdf)]
 
