@@ -29,3 +29,7 @@ author:
 github:
   repo:           https://github.com/nisommer/nisommer.github.io
   main:           https://github.com/nisommer/
+
+
+# GA4 web stream for https://www.nicolassommer.com (enhanced measurement disabled).
+ga4_measurement_id: "G-QELS3YZTBT"
